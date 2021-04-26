@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Rahul Jana.
+# Hi there 👋 I am Rahul.
 
 
 ## You can find me on [![ ](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/rahuljana-4/)
@@ -9,10 +9,16 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="Git" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <img align="left" alt="GitHub" width="42px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+
 <img align="left" alt="Terminal" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="TensorFlow" width="42px" src="https://github.com/RahulJana/RahulJana/blob/main/Logo/tf1.jpg?raw=true" />
+
+<img align="left" alt="Terminal" width="42px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-tensorflow-artificial-intelligence-brand-logo-lear-6103656%2F&psig=AOvVaw2Q6W2e3Od7Rr7ILhiS8lG2&ust=1619539916195000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjI78OmnPACFQAAAAAdAAAAABAD" />
+
+<img align="left" alt="Terminal" width="42px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-tensorflow-artificial-intelligence-brand-logo-lear-6103656%2F&psig=AOvVaw2Q6W2e3Od7Rr7ILhiS8lG2&ust=1619539916195000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjI78OmnPACFQAAAAAdAAAAABAD" />
 <br />
 <br />
 
