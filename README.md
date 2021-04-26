@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Rahul Jana.
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/rahuljana-4/)
+[![ ](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/rahuljana-4/)
 
 
 <br />
@@ -18,6 +18,6 @@
 
 Here are some ideas to get you started:
 
-- 💪🏼 I am currently working on Deep Learning with Tensorflow
+- 💪🏼 I am currently working on Deep Learning with Tensorflow.
 - 🔭 I am currently exploring Machine Learning and Deep Learning.
 - 📚 I am currently pursuing BE in Computer Science with Specialization in Artificial Intelligence and Machine Learning.
