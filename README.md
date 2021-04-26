@@ -16,7 +16,6 @@
 <br />
 
 
-Here are some ideas to get you started:
 
 - 💪🏼 I am currently working on Deep Learning with Tensorflow.
 - 🔭 I am currently exploring Machine Learning and Deep Learning.
