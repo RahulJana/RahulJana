@@ -1,7 +1,7 @@
-## Hi there 👋 My name is Rahul Jana.
+# Hi there 👋 My name is Rahul Jana.
 
 
-You can find me on [![ ](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/rahuljana-4/)
+## You can find me on [![ ](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/rahuljana-4/)
 
 
 <br />
