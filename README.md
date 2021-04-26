@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Rahul Jana.
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rahuljana-4/).
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/rahuljana-4/).
 
 
 <br />
