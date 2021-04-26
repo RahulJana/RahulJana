@@ -19,6 +19,6 @@ You can find me on [![ ](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://
 
 
 ### 💪🏼 I am currently working on Deep Learning with Tensorflow.
-### 🔭 I am currently exploring Machine Learning and Deep Learning.
+### 🔭 I am currently exploring the domain of Machine Learning and Deep Learning.
 ### 📚 I am currently pursuing BE in Computer Science with Specialization in Artificial Intelligence and Machine Learning.
 ### 🤜🏼🤛🏼 I am looking forward to collaborate with other like minded developer.
