@@ -18,7 +18,7 @@
 
 <img align="left" alt="Terminal" width="42px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-tensorflow-artificial-intelligence-brand-logo-lear-6103656%2F&psig=AOvVaw2Q6W2e3Od7Rr7ILhiS8lG2&ust=1619539916195000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjI78OmnPACFQAAAAAdAAAAABAD" />
 
-<img align="left" alt="Terminal" width="42px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-tensorflow-artificial-intelligence-brand-logo-lear-6103656%2F&psig=AOvVaw2Q6W2e3Od7Rr7ILhiS8lG2&ust=1619539916195000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjI78OmnPACFQAAAAAdAAAAABAD" />
+<img align="left" alt="Terminal" width="42px" src="https://github.com/RahulJana/RahulJana/blob/main/Logo/Screenshot%20from%202021-04-26%2021-55-05.png?raw=true" />
 <br />
 <br />
 
