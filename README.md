@@ -7,6 +7,8 @@
   /></a>
 </p> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulJana&label=Profile%20views&color=0e75b6&style=flat" alt="RahulJana" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/https://twitter.com/_rahul_jana_" target="blank"
