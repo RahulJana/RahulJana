@@ -1,0 +1,86 @@
+{
+  "C_Cpp.updateChannel": "Default",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "jupyter.alwaysTrustNotebooks": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "terminal.integrated.inheritEnv": false,
+  "mssql.connections": [
+    {
+      "server": "{{put-server-name-here}}",
+      "database": "{{put-database-name-here}}",
+      "user": "{{put-username-here}}",
+      "password": ""
+    }
+  ],
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrap": "on",
+  "autoDocstring.docstringFormat": "numpy",
+  "redhat.telemetry.enabled": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "explorer.confirmDelete": false,
+  "python.defaultInterpreterPath": "C:\\Users\\irahu\\.conda\\envs\\tf_2.4\\python.exe",
+  "tabnine.experimentalAutoImports": true,
+  "sonarlint.ls.javaHome": "c:\\Users\\irahu\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.13+8-jre",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "diffEditor.wordWrap": "off",
+  "notebook.output.textLineLimit": 100,
+  "notebook.consolidatedRunButton": true,
+  "files.associations": {
+    "*.rmd": "markdown"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.startupEditor": "none",
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "cSpell.userWords": ["highscore", "Jana", "Rahul"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "todohighlight.keywords": [
+    {
+      "text": "BUG",
+      "color": "#333",
+      "backgroundColor": "#FF2121"
+    },
+    {
+      "text": "TODO",
+      "color": "#F69726",
+      "backgroundColor": "#4C2BFF"
+    },
+    {
+      "text": "CHECK",
+      "color": "#333",
+      "backgroundColor": "orange"
+    },
+    {
+      "text": "OUTPUT:",
+      "color": "#FFFFFF",
+      "backgroundColor": "#266e02"
+    },
+    {
+      "text": "Error-msg:",
+      "color": "#333",
+      "backgroundColor": "#A46385"
+    }
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "window.commandCenter": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "editor.fontFamily": "CaskaydiaCove NF",
+  "window.zoomLevel": 1
+}
