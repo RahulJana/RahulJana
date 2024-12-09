@@ -7,7 +7,7 @@
   /></a>
 </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulJana&label=Profile%20views&color=0e75b6&style=flat" alt="RahulJana" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RahulJana&label=Profile%20views&color=0e75b6&style=flat" alt="RahulJana" /> </p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -146,12 +146,12 @@
     target="_blank"
     rel="noreferrer"
   >
-    <img
+    <!-- <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
-    />
+    /> -->
   </a>
 <!--   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
