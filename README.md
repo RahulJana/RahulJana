@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **i.rahuljana@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1APxrKe88KLApXmqJOaaxiJ3Xzkc1sxls/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1QLKUE06YAnFeUJkLKFQcwYevlZU-2cmi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
